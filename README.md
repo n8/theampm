@@ -35,3 +35,6 @@ Installation
 Feedback
 --------
 [Source code available on Github](https://github.com/n8/theampm). Feedback and pull requests are greatly appreciated.  Let me know if I can improve this.
+
+
+P.S. [**I'd love to meet you on Twitter: here**](http://twitter.com/natekontny). 
