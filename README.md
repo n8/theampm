@@ -21,7 +21,7 @@ With theampm, write Time like this in Ruby:
 => 2013-10-08 15:15:00 -0500
 ```
 
-This code is so simple I debated even creating a gem for it, but I find myself creating it repeatedly for new projects, and now again for [Draft](http://draftin.com), an app to help people [write better](http://draftin.com).
+This code is so simple I debated even creating a gem for it, but I find myself using it repeatedly for new projects, and now again for [Draft](http://draftin.com), an app to help people [write better](http://draftin.com).
 
 
 Installation
