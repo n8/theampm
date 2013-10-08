@@ -2,6 +2,7 @@
 
 A nice way to write time in Ruby: 
 
+```ruby
 1.am
 
 130.am
@@ -9,6 +10,7 @@ A nice way to write time in Ruby:
 4.pm
 
 1515.to_time
+```
 
 ## Installation
 
