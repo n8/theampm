@@ -1,6 +1,9 @@
-# Theampm
+theampm
+===========
 
-A nice way to write time in Ruby: 
+This code is so simple I debated even creating a gem for it, but I find myself creating it over and over again.
+
+With theampm, write time like this in Ruby: 
 
 ```ruby
 1.am
@@ -12,29 +15,15 @@ A nice way to write time in Ruby:
 1515.to_time
 ```
 
-## Installation
 
-Add this line to your application's Gemfile:
+Installation
+------------
 
-    gem 'theampm'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install theampm
-
-## Usage
-
-There's really nothing to it. 
+1. Add `gem 'theampm'` to your Gemfile.
+2. Run `bundle install`.
+3. Restart your server
 
 
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+Feedback
+--------
+[Source code available on Github](https://github.com/n8/theampm). Feedback and pull requests are greatly appreciated.  Let me know if I can improve this.
