@@ -4,11 +4,11 @@ require 'chronic'
 class Numeric
   # A convenience for writing: 3.am or 1130.am
   def am
-    Chronic.parse("#{self} am")
+    Chronic.parse "#{self} am"
   end
 
   def pm
-    Chronic.parse("#{self} pm")
+    Chronic.parse "#{self} pm"
   end
   
   def to_time
