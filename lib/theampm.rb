@@ -15,10 +15,8 @@ class Numeric
     hour = self
     if hour < 12 || (hour >= 100 && hour < 1200)
       am
-    elsif hour >= 24
-      Chronic.parse hour.to_s
     else
-      pm
+      Chronic.parse hour.to_s
     end
   end
 end
